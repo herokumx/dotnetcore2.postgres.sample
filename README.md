@@ -1,5 +1,5 @@
 # Sample deployable code using .NET Core 2.1 Buildpack for Heroku with Heroku Postgres
-## by Softtrends LLC
+## by Softtrends LLC TEsting 
 
 This Sample code uses [.Net Core 2.1 Buildpack by Softtends](https://github.com/heroku-softtrends/dotnetcore2.postgres.buildpack) and adds full support for Heroku Postgres<br>
 
